@@ -1,0 +1,1 @@
+mkdir c:\ctrlfisc\imagem\
